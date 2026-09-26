@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Ayush",
+      "email": "ayush@gmail.com",
+      "phone": "9807898760",
+      "city": "Patna",
+      "courses": [
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9908778987",
+      "city": "Bangalore",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "Manoj Kumar",
+      "email": "manoj@gmail.com",
+      "phone": "9128978657",
+      "city": "Jaipur",
+      "courses": [
+        "AI",
+        "Machine Learning"
+      ],
+      "id": "BwhqyjjqD_c"
+    },
+    {
+      "courses": [
+        "Python",
+        "Java"
+      ],
+      "phone": "900089098",
+      "city": "Kolkata",
+      "name": "Pradeep",
+      "email": "p@gmail.com",
+      "id": "FaYUQnOa5pM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
